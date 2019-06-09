@@ -1,0 +1,31 @@
+body {
+  height: 100%;
+  max-width: 75%;
+  margin: 0 auto;
+}
+.body-container {
+  overflow: auto;
+}
+.childContainer {
+  width: 45%;
+  height: 100%;
+  border: 1px solid #cccccc;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+/* .childContainer:last-child {
+    float: right;
+} */
+button {
+  margin-left: 10px;
+}
+.userList {
+  display: block;
+  margin-bottom: 10px;
+}
+.container {
+  margin-top: 25px;
+  padding: 20px;
+  border: 1px solid #cccccc;
+}

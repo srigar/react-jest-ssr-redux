@@ -1,0 +1,9 @@
+.user-details {
+    height: 100%;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    float: right;
+}

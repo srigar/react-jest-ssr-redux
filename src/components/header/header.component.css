@@ -1,0 +1,13 @@
+.header-container {
+    padding: 40px;
+    background: beige;
+}
+a {
+    margin-right: 20px;
+}
+.header-title {
+    float: right;
+    font-size: 23px;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
